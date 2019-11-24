@@ -1,0 +1,17 @@
+{
+  "name": "utf8-fl",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/utf8-fl.git"
+  },
+  "main": "out/index.js",
+  "typings": "out/index.d.ts",
+  "dependencies": {
+    "text-coder": "^1.0.0"
+  }
+}
